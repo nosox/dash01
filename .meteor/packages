@@ -18,8 +18,9 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
-less			# for D3 examples
-momentjs:moment		# for D3 examples, adding date capabilities
+less			         # for D3 examples
+momentjs:moment		 # for D3 examples, adding date capabilities
+
 
 kadira:flow-router
 kadira:blaze-layout
@@ -38,6 +39,7 @@ matb33:bootstrap-glyphicons
 zimme:active-route
 gwendall:auth-client-callbacks
 meteortoys:allthings
+
 #datariot:ganalytics	# No need for Google Analytics for our privite Demo
 d3js:d3			# NEW, supporting visualizations
 
